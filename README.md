@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Nakebenihime and I hold a degree in IS Engineering & have been working in the area of IT for the past 4 years.
+- 👋 Hi, I'm @Nakebenihime and I hold a degree in IS engineering and have been working in the IT field for the past 4 years.
 - 👀 I’m most excited to learn about cloud computing, cybersecurity, and the DevOps philosophy because all of these topics allow companies to provide highly competitive services that meet the ever-changing needs of their customers.
 - 📫 How to reach me: mario-dacosta@hotmail.fr
 
