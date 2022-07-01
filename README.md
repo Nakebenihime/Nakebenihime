@@ -1,8 +1,8 @@
-- 👋 Hi, I'm @Nakebenihime and I hold a degree in IS engineering and have been working in the IT field for the past 4 years.
-- 👀 I’m most excited to learn about cloud computing, cybersecurity, and the DevOps philosophy because all of these topics allow companies to provide highly competitive services that meet the ever-changing needs of their customers.
-- 📫 How to reach me: mario-dacosta@hotmail.fr
+👋 Hi, I'm @Nakebenihime and have been a computer science engineer and working in the IT field for the past years.
+👀 I am especially excited to learn more about cloud technologies, cybersecurity as well as the DevOps philosophy. Indeed, all of these topics allow businesses to provide highly competitive services that meet the ever-changing needs of customers.
+📫 How to reach me: mario-dacosta@hotmail.fr
 
 <!---
-Nakebenihime/Nakebenihime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://mario-dacosta.gitbook.io/nakebenihime/ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
