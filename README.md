@@ -4,4 +4,4 @@
 
 📫 How to reach me: mario-dacosta@hotmail.fr
 
-https://mario-dacosta.gitbook.io/nakebenihime/ is a ✨ special ✨ repository
+✨ special repository ✨: https://mario-dacosta.gitbook.io/nakebenihime/
